@@ -10,16 +10,16 @@ _34 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/34-grupe-server-design/
+Site published at: https://mantasgarlauskas.github.io/005-server-design/
 
 Design: [Oxo](https://irtech.biz/tf/oxo/index-10.html)
 
 ## Project features
 
--   Github pages (multi-page)
--   HTML form
+- HTML form
+- Copy deign from [Oxo](https://irtech.biz/tf/oxo/index-10.html)
+- CSS BEM markup
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
 Mantas: [Github](https://github.com/MantasGarlauskas)
